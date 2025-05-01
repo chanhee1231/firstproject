@@ -1,0 +1,12 @@
+name,category,clothegender,size,price
+T-Shirt,상의,U,M,19900
+Jeans,하의,M,L,49900
+Blouse,상의,W,S,35900
+Jacket,아우터,U,M,89900
+Skirt,하의,W,M,39900
+Hoodie,상의,U,L,65900
+Cardigan,아우터,W,L,55900
+Cap,액세서리,U,Free,15900
+Shorts,하의,M,M,29900
+Dress,상의,W,M,64900
+후드,상의,M,M,65900
